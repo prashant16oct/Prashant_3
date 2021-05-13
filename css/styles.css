@@ -1,0 +1,29 @@
+
+.gap{
+   margin-right: 20px;
+ }
+ .up{
+   margin-top: 10px;
+ }
+ .white{
+    color: white;
+ }
+ .white:hover{
+    color:lightgray
+ }
+a{
+   text-decoration: underline;
+}
+.img-h{
+position: absolute;
+width:79vw;
+height:36vw;
+left: 20%;
+bottom: 22% !important;
+overflow: hidden;
+
+}
+.top-sec{
+
+   bottom:8px;
+}
